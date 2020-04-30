@@ -1,7 +1,7 @@
 # App-Delivery
 Maqueta de Aplicación React Native para deliveries internos
 
-(assets/Capturas/login.png?raw=true "Login")
+(assets/Capturas/login.png)
 (assets/Capturas/menu.png?raw=true "Menu")
 (assets/Capturas/mapa-admin.png?raw=true "Mapa Admin")
 (assets/Capturas/mapa-admin-2.png?raw=true "Mapa Admin 2")
