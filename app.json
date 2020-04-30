@@ -1,0 +1,49 @@
+{
+  "expo": {
+   "androidStatusBar": {
+      "backgroundColor": "#000000"
+    },
+    "name": "Morfi Viandas",
+    "slug": "morfi-viandas",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "2.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/IMG_1912.png",
+    "splash": {
+      "image": "./assets/IMG_1912.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f9f5ed"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "morfi.viandas",
+      "buildNumber": "2.0.4"
+    },
+    "android": {
+      "config": {
+            "googleMaps": {
+              "apiKey": "AIzaSyCTiPwKQp_ztpFUMCJ8RvPgza-mucm7xBM"
+            }
+      },
+      "permissions" : [],
+      "package": "morfi.viandas",
+      "versionCode": 8,
+       "adaptiveIcon": {
+	      "foregroundImage": "./assets/Logo_morfi.png",
+	      "backgroundColor": "#f9f5ed"
+	  }
+   	} 
+   }
+}
