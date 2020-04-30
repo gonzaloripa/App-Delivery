@@ -1,8 +1,7 @@
 # App-Delivery
 Maqueta de Aplicación React Native para deliveries internos
 
-
-![Menu](assets/Capturas/menu.png?raw=true | width=48)
+<img src="assets/Capturas/menu.png?raw=true" height="200" width="100">
 
 
 
